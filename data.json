@@ -1,0 +1,64 @@
+[
+  {
+    "id": "1",
+    "read": false,
+    "name": "Mark Webber",
+    "avatar": "/images/avatar-mark-webber.webp",
+    "time": "1m ago",
+    "sentence": "reacted to your recent post",
+    "post": "My first tournament today!"
+  },
+  {
+    "id": "2",
+    "read": false,
+    "name": "Angela Gray",
+    "time": "5m ago",
+    "sentence": "followed you",
+    "avatar": "/images/avatar-angela-gray.webp"
+  },
+  {
+    "id": "3",
+    "read": false,
+    "name": "Jacob Thompson",
+    "time": "1 day ago",
+    "sentence": "has joined your group",
+    "group": "Chess Club",
+    "avatar": "/images/avatar-jacob-thompson.webp"
+  },
+  {
+    "id": "4",
+    "read": true,
+    "name": "Rizky Hasanuddin",
+    "sentence": "sent you a private message",
+    "time": "5 days ago",
+    "avatar": "/images/avatar-rizky-hasanuddin.webp",
+    "privateMessage": "Hello, thanks for setting up the Chess Club. I've been a member for a few weeks now and I'm already having lots of fun and improving my game."
+  },
+  {
+    "id": "5",
+    "read": true,
+    "name": "Kimberly Smith",
+    "sentence": "commented on your picture",
+    "time": "1 week ago",
+    "avatar": "/images/avatar-kimberly-smith.webp",
+    "picture": "/images/image-chess.webp"
+  },
+  {
+    "id": "6",
+    "read": true,
+    "name": "Nathan Peterson",
+    "sentence": "reacted to your recent post",
+    "post": "5 end-game strategies to increase your win rate",
+    "time": "2 weeks ago",
+    "avatar": "/images/avatar-nathan-peterson.webp"
+  },
+  {
+    "id": "7",
+    "read": true,
+    "name": "Anna Kim",
+    "sentence": "left the group",
+    "group": "Chess Club",
+    "time": "2 weeks ago",
+    "avatar": "/images/avatar-anna-kim.webp"
+  }
+]
